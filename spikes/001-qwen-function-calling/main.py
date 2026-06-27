@@ -15,7 +15,7 @@ from openai import AsyncOpenAI
 
 # Load API key
 API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
-BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+BASE_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
 
 if not API_KEY:
     # Try loading from .env

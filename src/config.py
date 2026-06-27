@@ -10,7 +10,7 @@ class Settings(BaseSettings):
 
     # Qwen / DashScope
     dashscope_api_key: str = Field(default="", alias="DASHSCOPE_API_KEY")
-    dashscope_base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    dashscope_base_url: str = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
 
     # Models
     model_reasoning: str = "qwen3-coder-next"
