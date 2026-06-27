@@ -39,6 +39,18 @@ An AI-powered multi-agent system that automates the full customer lifecycle, fro
 
 **Track 4: Autopilot Agent** (with elements of Track 1: MemoryAgent and Track 3: Agent Society)
 
+## 📋 Hackathon Submission Links
+
+| Requirement | Link |
+|---|---|
+| Code Repository | https://github.com/AutomatesWithJohnson/nexusops |
+| Architecture Diagram | [docs/architecture-diagram.html](docs/architecture-diagram.html) |
+| Proof of Alibaba Cloud Deployment | [docs/alibaba-cloud-deployment.py](docs/alibaba-cloud-deployment.py) |
+| Demo Scenario | [scripts/demo_scenario.py](scripts/demo_scenario.py) |
+| Blog Post | [docs/blog-post.md](docs/blog-post.md) |
+| ARCHITECTURE.md | [ARCHITECTURE.md](ARCHITECTURE.md) |
+| License | MIT (see LICENSE)
+
 ## Quick Start
 
 ```bash
